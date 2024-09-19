@@ -2,6 +2,9 @@
 
 Este projeto é um site responsivo dedicado aos amantes de **Star Wars**, trazendo uma experiência imersiva para explorar o universo dessa franquia.
 
+![Prévia do Site](./img/preview.png)  
+*Acesse o site clicando [aqui](https://star-wars-puce-omega.vercel.app/).*
+
 ## Funcionalidades
 
 - **Layout Responsivo**: O site se adapta a diferentes tamanhos de tela (desktop, tablet e mobile).
